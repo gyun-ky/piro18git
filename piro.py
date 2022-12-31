@@ -1,2 +1,3 @@
 prio_kakao
+prio_naver
 piro cart
