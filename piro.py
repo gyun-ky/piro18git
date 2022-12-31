@@ -1,2 +1,2 @@
-prio
+prio_naver
 piro cart
