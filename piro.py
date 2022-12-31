@@ -1,2 +1,2 @@
-prio
+prio_kakao
 piro cart
